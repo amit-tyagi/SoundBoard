@@ -1,0 +1,4 @@
+>ionic add platform ios
+>ionic add platform android
+>ionic add plugin add cordova-plugin-media
+>ionic emulate ios -cls
